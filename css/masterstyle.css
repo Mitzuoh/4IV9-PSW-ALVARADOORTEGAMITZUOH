@@ -1,7 +1,7 @@
 *{
     padding: 0;
     margin: 0;
-    color: #eee;
+    color: black;
     text-align: center;
 }
 
@@ -10,10 +10,10 @@ html, body{
 }
 
 .main-container{
-    border: 5px solid rgb(209, 11, 93)
+    border: 5px solid rgb(209, 11, 93);
     border-radius: 10px;
     margin: 2rem;
-    ackground-color: rgb (203, 233, 10)
+    background-color: #D6EADF;
 }
 
 nav, section, footer, article, aside {
@@ -28,9 +28,9 @@ aside, article{
     width: 40%;
     display: inline-block;
     height: 300px;
-    background-color: rgb (107, 107, 107);
+    background-color: #B8E0D2;
 }
 
 nav, section, footer{
-    background-color: rgb(107, 107, 10);
+    background-color: #95B8D1;
 }
