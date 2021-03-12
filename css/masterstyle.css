@@ -3,20 +3,17 @@
     margin: 0;
     color: #eee;
     text-align: center;
-
 }
 
 html, body{
-    background-color: blue;
-
+    background-color: rgb(120, 171, 230);
 }
 
-.main-container
-    border: 5px solid rgb(209, 11, 93);
+.main-container{
+    border: 5px solid rgb(209, 11, 93)
     border-radius: 10px;
     margin: 2rem;
-    background-color: #f315d5;
-
+    ackground-color: rgb (203, 233, 10)
 }
 
 nav, section, footer, article, aside {
@@ -32,7 +29,6 @@ aside, article{
     display: inline-block;
     height: 300px;
     background-color: rgb (107, 107, 107);
-
 }
 
 nav, section, footer{
